@@ -1,3 +1,5 @@
-# angular-jxqa5m-yeb3cs
+# Angular Sample Project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-jxqa5m-yeb3cs)
+### Sample project for learning the basics of Angular Framework. 
+
+[Created on StackBlitz, click here to edit!](https://stackblitz.com/edit/my-first-angular-sample)
